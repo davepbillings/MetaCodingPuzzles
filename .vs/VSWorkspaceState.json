@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Level 1",
+    "\\Level 2"
   ],
-  "SelectedNode": "\\Level 1",
+  "SelectedNode": "\\Level 2",
   "PreviewInSolutionExplorer": false
 }
